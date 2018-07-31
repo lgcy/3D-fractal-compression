@@ -7,5 +7,5 @@ The code is used to compress three-dimensional image which is an extension of tw
 ## 2.介绍
 * `compression3d`：进行图像压缩时的主要程序  
 * `decompression`：用于解压缩，得到解压后的图像
-* `affchange`：图像压缩时所用到的19变换  
+* `affchange`：图像压缩时所用到的19种仿射变换  
 ## 3.例子
