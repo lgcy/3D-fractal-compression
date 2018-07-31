@@ -5,6 +5,7 @@ The code is used to compress three-dimensional image which is an extension of tw
 ## 1.前提
 本程序是基于Matlab的
 ## 2.介绍
-* `compression3d`：该文间是压缩时的主要程序  
-* `decompression`：用于解压缩  
-* 英文名：Jelly  
+* `compression3d`：进行图像压缩时的主要程序  
+* `decompression`：用于解压缩，得到解压后的图像
+* `affchange`：图像压缩时所用到的19变换  
+## 3.例子
