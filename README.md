@@ -12,5 +12,4 @@ The code is used to compress three-dimensional image which is an extension of tw
 * `R`：压缩后的文件
 ## 3.例子
 ![压缩前原始图片](https://github.com/lgcy/3D-fractal-compression/blob/master/ori.jpg)
-![解压缩后的图片](https://github.com/lgcy/3D-fractal-compression/blob/master/decom.jpg)
-上面是对某个三维脑部图片进行压缩的某个切片，左边是原始图片，右边是解压缩后图片，psnr = 32.81
+![解压缩后的图片](https://github.com/lgcy/3D-fractal-compression/blob/master/decom.jpg)上面是对某个三维脑部图片进行压缩的某个切片，左边是原始图片，右边是解压缩后图片，psnr = 32.81
